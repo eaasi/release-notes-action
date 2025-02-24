@@ -20,6 +20,9 @@
     "clean": "rm -rv ./dist/*",
     "check": "tsc --noEmit"
   },
+  "dependencies": {
+    "@actions/core": "1.11.1"
+  },
   "devDependencies": {
     "@vercel/ncc": "0.38.3",
     "typescript": "5.7.3"
