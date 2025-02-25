@@ -1,6 +1,6 @@
 {
   "name": "release-notes-action",
-  "version": "0.1.0",
+  "version": "0.6.0",
   "description": "GitHub Action for extracting release notes from changelog files",
   "author": "Oleg Stobbe",
   "license": "Apache-2.0",
